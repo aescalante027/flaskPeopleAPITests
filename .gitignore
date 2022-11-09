@@ -26,3 +26,9 @@ hs_err_pid*
 test-output/
 bin/
 .gradle/
+build/
+.settings/
+
+# Files
+lib/.classpath
+lib/.project
